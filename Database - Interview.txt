@@ -1,0 +1,19 @@
+combine two table
+second highest salary
+consecutive numbers
+Duplicate Emails
+Rank scores
+Employees Earning More than Their Manager
+customer who never order
+Department Highest Salary
+Department top3 salary
+Delete duplicate Emails
+Rising Temperature
+Median Employee Salary
+Classes more than 5 students
+shortest distance in line,plane(inputx,y find SD)
+customers who bought all products
+product sales analysis
+Find the quite students in all exam
+customers who bought product A and B not C
+customer who visited but did not make any transaction

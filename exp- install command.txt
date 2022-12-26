@@ -1,0 +1,8 @@
+expo install[cmd commands]
+---------------------------
+1.node -v
+2.npm -v
+3.npm install -g expo-cli
+4.expo init projectname
+5.cd projectname
+6.npm start

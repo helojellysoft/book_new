@@ -1,0 +1,21 @@
+update
+------------------------------
+1.view  - for all
+2.delete - 
+3.table --> jquery delete
+4.pay - sales 
+5.pay - purchase
+6.complaint call
+7.customer history
+8.Dropdown - for all
+9.
+
+
+
+
+
+
+
+
+Note:
+1.billing address[To address]

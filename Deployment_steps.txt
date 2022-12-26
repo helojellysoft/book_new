@@ -1,0 +1,12 @@
+Deployment [Local to Live / Developer to Customer ]
+--------------------------------------------------------
+1.Register your App [Domain Name] 
+Ex: godaddy, zolahost.com, hostinger...
+2.After Registration Login [User CPanel]
+3.File manager->click httpdocs[like:xampp/htdocs]
+4.Click -> upload file or folder
+5.Choose your local project folder
+6.if you want to create Database-->click Database[Live CPANEL]
+7.create table[Offline table schema or queries]->click SQL
+8.DB connection info[verify Database connection]
+9.Share the URL[Ex:https://dhosthassociation.com/dhosth2.1/dhosth_list.php]
